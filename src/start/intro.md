@@ -1,0 +1,3 @@
+# START HERE
+
+We will remember this as the time before THE SHIFT...

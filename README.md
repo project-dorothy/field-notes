@@ -1,10 +1,10 @@
 # field-notes
 
-open source field notes on crypto culture
+open source, collaborative field notes on THE SHIFT
 
 ## Contribute
 
-Clone or Fork this repo `https://github.com/project-dorothy/field-notes` e.g.
+Clone or Fork this repo e.g.
 
 ```bash
 git clone https://github.com/project-dorothy/field-notes
